@@ -1,0 +1,1 @@
+As part of a Brainster Data Science Academy, I worked on the Kungul app, which uses a quick scan to let users know if the skincare product they use includes any hazardous substances and offers healthy alternatives.
